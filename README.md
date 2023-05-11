@@ -1,12 +1,11 @@
 
 # IMPORTANT
 
-<h3>The selfbot is outdated ! Please update it youself and don't open issue !</h3>
-THIS PROJECT HAS BEEN DISCONTINUED. ANY FURTHER ISSUES WON'T BE ANSWERED BY US!
+<h3>IDK WHAT IM DOING</h3>
+THIS PROJECT HAS BEEN DISCONTINUED. ANY FURTHER ISSUES WON'T BE ANSWERED BY U MOMMA!
 
 # Setup
-  - Since it's discontinuted and some good guy (trickstr) decided to make a video tutorial about it
-  - There are the steps: https://www.youtube.com/watch?v=Sqwdlvr5xvo
+  NO
 
 # Legality
 
@@ -14,9 +13,8 @@ Everything you can see here has been made for educational purposes and proof of 
 
 
 
-[![Run on Repl.it](https://repl.it/badge/github/Alucard-Selfbot/Alucard-Selfbot-src)](https://repl.it/github/Alucard-Selfbot/Alucard-Selfbot-src)
 
-##### thanks for the yt vid ~ Fweak
+
 
 # Q&A
 - Q: **`SSL Certificate Error`**
